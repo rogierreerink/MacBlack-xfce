@@ -15,7 +15,7 @@
    viewBox="0 0 132.29166 132.29167"
    version="1.1"
    id="svg8"
-   sodipodi:docname="mac.svg"
+   sodipodi:docname="design.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <title
      id="title4762">Mac</title>
@@ -36,7 +36,7 @@
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile7" />
+       id="color-profile6" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4722">
@@ -229,20 +229,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="174.69284"
-     inkscape:cy="416.78704"
+     inkscape:zoom="5.656854"
+     inkscape:cx="143.20219"
+     inkscape:cy="397.39544"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="wi"
      showgrid="true"
      inkscape:snap-others="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1367"
-     inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-height="1398"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="20"
      units="px">
@@ -308,7 +308,7 @@
          height="10.318749"
          width="95.250008"
          id="rect874"
-         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.29551926;stroke-opacity:0" />
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.29551926;stroke-opacity:0" />
     </g>
     <g
        inkscape:groupmode="layer"
