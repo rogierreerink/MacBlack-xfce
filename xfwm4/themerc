@@ -1,0 +1,20 @@
+# Author: Rogier Reerink
+# Licence: GPL
+# Date: Januari 2019
+
+button_layout=CHM|
+button_spacing=6
+button_offset=12
+maximized_offset=12
+
+active_text_color=#f9f9f9
+active_text_shadow_color=#000000
+inactive_text_color=#808080
+inactive_text_shadow_color=#000000
+
+full_title_width=true
+title_horizontal_offset=12
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
+title_shadow_active=true
+title_shadow_inactive=false
