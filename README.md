@@ -1,4 +1,4 @@
 # MacBlack-xfcewm
 An xfcewm theme inspired by the iconic Macintosh window buttons.
 
-![MacBlack screenshot](https://github.com/rogierreerink/MacBlack-xfcewm/blob/master/screenshot.png)
+![MacBlack screenshot](https://github.com/rogierreerink/MacBlack-xfcewm/extra/screenshot.png)
