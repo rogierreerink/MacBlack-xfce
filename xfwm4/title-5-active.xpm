@@ -1,14 +1,12 @@
 /* XPM */
-static char * title_1_active_xpm[] = {
-"1 42 4 1",
+static char * title_5_active_xpm[] = {
+"1 40 4 1",
 " 	c None",
 ".	c #000000",
 "+	c #4D4D4D",
 "@	c #1A1A1A",
 ".",
 "+",
-"@",
-"@",
 "@",
 "@",
 "@",

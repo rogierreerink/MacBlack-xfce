@@ -1,6 +1,6 @@
 /* XPM */
 static char * maximize_toggled_pressed_xpm[] = {
-"14 42 60 1",
+"14 40 60 1",
 " 	c None",
 ".	c #000000",
 "+	c #4D4D4D",
@@ -74,7 +74,6 @@ static char * maximize_toggled_pressed_xpm[] = {
 "@@@@@@@@@@@@@@",
 "@@@@@@@@@@@@@@",
 "@@@@@@@@@@@@@@",
-"@@@@@@@@@@@@@@",
 "@@@#$%&&%$#@@@",
 "@@*=-;>>;,=*@@",
 "@')!~{]]^~/)'@",
@@ -89,7 +88,6 @@ static char * maximize_toggled_pressed_xpm[] = {
 "@#pqk8aa8kqp#@",
 "@@lrstuutsrl@@",
 "@@@@llllll@@@@",
-"@@@@@@@@@@@@@@",
 "@@@@@@@@@@@@@@",
 "@@@@@@@@@@@@@@",
 "@@@@@@@@@@@@@@",
