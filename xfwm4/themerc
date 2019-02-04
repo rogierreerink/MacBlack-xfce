@@ -2,7 +2,6 @@
 # Licence: GPLv3
 # Date: Februari 2019
 
-button_layout=CHM|
 button_spacing=6
 button_offset=12
 maximized_offset=12
