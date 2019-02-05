@@ -1,6 +1,8 @@
 # Author: Rogier Reerink
 # Licence: GPLv3
-# Date: Februari 2019
+# Date created: 1 Februari 2019
+# Date modified: 5 Februari 2019
+# Version: 0.5
 
 button_spacing=6
 button_offset=12

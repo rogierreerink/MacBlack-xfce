@@ -36,7 +36,7 @@
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile6" />
+       id="color-profile7" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4722">
@@ -337,6 +337,36 @@
        y1="6.6145835"
        x2="91.01667"
        y2="10.31875" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4770"
+       id="linearGradient1084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666667,0,0,1.1666667,12.170834,-1.6986113)"
+       x1="9.5249996"
+       y1="8.604167"
+       x2="9.5249996"
+       y2="11.779166" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4770"
+       id="linearGradient1116"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666667,0,0,1.1666667,12.170835,-1.6986113)"
+       x1="9.5249996"
+       y1="8.604167"
+       x2="9.5249996"
+       y2="11.779166" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4770"
+       id="linearGradient1148"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666667,0,0,1.1666667,15.345834,-1.6986113)"
+       x1="9.5249996"
+       y1="8.604167"
+       x2="9.5249996"
+       y2="11.779166" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -345,11 +375,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="185.86842"
-     inkscape:cy="353.43517"
+     inkscape:zoom="0.99999995"
+     inkscape:cx="175.4169"
+     inkscape:cy="334.60285"
      inkscape:document-units="mm"
-     inkscape:current-layer="button-sticky-prelight"
+     inkscape:current-layer="window-active"
      showgrid="false"
      inkscape:snap-others="true"
      inkscape:snap-nodes="true"
@@ -1033,7 +1063,7 @@
          style="opacity:1;fill:#1e8254;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:0" />
     </g>
     <g
-       transform="translate(63.500004,162.98337)"
+       transform="translate(48.683334,162.98337)"
        id="button-sticky-active">
       <ellipse
          ry="1.8520834"
@@ -1065,7 +1095,7 @@
     </g>
     <g
        id="button-sticky-prelight"
-       transform="translate(68.791666,162.98337)">
+       transform="translate(53.975,162.98337)">
       <ellipse
          cy="10.191668"
          cx="26.458334"
@@ -1083,7 +1113,7 @@
       <ellipse
          ry="1.3229167"
          rx="1.3229172"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.33072922"
+         style="fill:#077a9f;fill-opacity:1;stroke-width:0.33072922"
          id="ellipse1033"
          cx="26.458334"
          cy="10.191617" />
@@ -1091,24 +1121,42 @@
          inkscape:connector-curvature="0"
          id="path1035"
          d="m 26.458334,8.8687 c -0.707983,0.00102 -1.289672,0.559248 -1.319816,1.266589 0.04927,-0.4155225 0.625528,-0.737496 1.319816,-0.7374223 0.730627,4e-7 1.322916,0.3553744 1.322916,0.7937503 0,-0.7306264 -0.592289,-1.3229163 -1.322916,-1.322917 z"
-         style="fill:#333333;fill-opacity:1;stroke-width:0.33072922"
-         sodipodi:nodetypes="ccccc" />
-      <ellipse
-         cy="10.191617"
-         cx="26.458334"
-         id="ellipse1055"
-         style="fill:#0aa8dc;fill-opacity:1;stroke-width:0.26458332"
-         rx="1.0583335"
-         ry="1.0583334" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1035-3"
-         d="m 26.458334,9.1332833 c -0.567051,8e-4 -1.032948,0.4474 -1.057092,1.0132697 0.03947,-0.3324097 0.50101,-0.5899997 1.057092,-0.5899297 0.585187,0 1.059575,0.28429 1.059575,0.6349997 0,-0.5845097 -0.474388,-1.0583397 -1.059575,-1.0583397 z"
-         style="fill:#077a9f;fill-opacity:1;stroke-width:0.26473781"
+         style="fill:#055d79;fill-opacity:1;stroke-width:0.33072922"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="translate(74.083333,162.98337)"
+       transform="translate(62.438566,162.98337)"
+       id="g1082">
+      <ellipse
+         ry="1.8520834"
+         rx="1.8520837"
+         style="fill:url(#linearGradient1084);fill-opacity:1;stroke-width:0.46302086"
+         id="ellipse1074"
+         cx="23.283335"
+         cy="10.191668" />
+      <ellipse
+         ry="1.5875001"
+         rx="1.5875003"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.39687502"
+         id="ellipse1076"
+         cx="23.283335"
+         cy="10.191668" />
+      <ellipse
+         cy="10.191617"
+         cx="23.283335"
+         id="ellipse1078"
+         style="fill:#0997c5;fill-opacity:1;stroke-width:0.33072922"
+         rx="1.3229172"
+         ry="1.3229167" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#077a9f;fill-opacity:1;stroke-width:0.33072922"
+         d="m 23.283334,8.8687 c -0.707983,0.00102 -1.289672,0.559248 -1.319816,1.266589 0.04927,-0.4155225 0.625528,-0.737496 1.319816,-0.7374223 0.730627,4e-7 1.322916,0.3553744 1.322916,0.7937503 0,-0.7306264 -0.592289,-1.3229163 -1.322916,-1.322917 z"
+         id="path1080"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(64.558334,162.98337)"
        id="button-sticky-pressed">
       <ellipse
          ry="1.8520834"
@@ -1144,6 +1192,82 @@
          id="path1047"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g1114"
+       transform="translate(73.024999,162.98337)">
+      <ellipse
+         cy="10.191668"
+         cx="23.283335"
+         id="ellipse1104"
+         style="fill:url(#linearGradient1116);fill-opacity:1;stroke-width:0.46302086"
+         rx="1.8520837"
+         ry="1.8520834" />
+      <ellipse
+         cy="10.191668"
+         cx="23.283335"
+         id="ellipse1106"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.39687502"
+         rx="1.5875003"
+         ry="1.5875001" />
+      <ellipse
+         ry="1.3229167"
+         rx="1.3229172"
+         style="fill:#0bbaf4;fill-opacity:1;stroke-width:0.33072922"
+         id="ellipse1108"
+         cx="23.283335"
+         cy="10.191617" />
+      <ellipse
+         ry="1.0583336"
+         rx="1.0583346"
+         style="fill:#4fd2fd;fill-opacity:1;stroke-width:0.2645835"
+         id="ellipse1110"
+         cx="23.283333"
+         cy="10.191617" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1112"
+         d="m 23.282093,9.1332833 c -0.567051,8.16e-4 -1.032949,0.4473984 -1.057092,1.0132707 0.03946,-0.3324175 0.50101,-0.5899963 1.057092,-0.5899373 0.585188,3e-7 1.059575,0.2842992 1.059575,0.6350003 0,-0.5845012 -0.474387,-1.0583331 -1.059575,-1.0583337 z"
+         style="fill:#aae9fe;fill-opacity:1;stroke-width:0.26473859" />
+    </g>
+    <g
+       id="g1146"
+       transform="translate(75.141666,162.98337)">
+      <ellipse
+         cy="10.191668"
+         cx="26.458334"
+         id="ellipse1136"
+         style="fill:url(#linearGradient1148);fill-opacity:1;stroke-width:0.46302086"
+         rx="1.8520837"
+         ry="1.8520834" />
+      <ellipse
+         cy="10.191668"
+         cx="26.458334"
+         id="ellipse1138"
+         style="fill:#333333;fill-opacity:1;stroke-width:0.39687502"
+         rx="1.5875003"
+         ry="1.5875001" />
+      <ellipse
+         ry="1.3229167"
+         rx="1.3229172"
+         style="fill:#0997c5;fill-opacity:1;stroke-width:0.33072922"
+         id="ellipse1140"
+         cx="26.458334"
+         cy="10.191617" />
+      <ellipse
+         ry="1.0583336"
+         rx="1.0583346"
+         style="fill:#0aa8dc;fill-opacity:1;stroke-width:0.2645835"
+         id="ellipse1142"
+         cx="26.458332"
+         cy="10.191617" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1144"
+         d="M 26.457092,9.1332833 C 25.890041,9.1340993 25.424143,9.5806817 25.4,10.146554 c 0.03946,-0.3324175 0.50101,-0.5899963 1.057092,-0.5899373 0.585188,3e-7 1.059575,0.2842992 1.059575,0.6350003 0,-0.5845012 -0.474387,-1.0583331 -1.059575,-1.0583337 z"
+         style="fill:#4fd2fd;fill-opacity:1;stroke-width:0.26473859" />
     </g>
     <g
        id="button-menu-active"
